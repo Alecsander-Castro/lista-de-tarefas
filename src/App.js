@@ -3,7 +3,7 @@ import './App.css';
 import {useState , useEffect} from 'react';
 import {BsTrash , BsBookmarkCheck , BsBookmarkCheckFill} from 'react-icons/bs';
 
-const API = "http://localhost:5000";
+const API = "https://my-json-server.typicode.com/Alecsander-Castro/database";
 
 function App() {
   const [title, setTitle] = useState('');
