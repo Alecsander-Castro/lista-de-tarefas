@@ -1,4 +1,4 @@
-<h1 align="center"> To Do List com Reatc </h1>
+<h1 align="center"> To Do List com React </h1>
 
 # Resumo do projeto
 Exemplo de uma lista de tarefas utilizando a biblioteca React
